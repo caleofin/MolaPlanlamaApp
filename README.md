@@ -8,7 +8,7 @@ Projeyi çalıştırmak için aşağıdaki adımları takip edin:
 
 
 ### 1. Projeyi klonlayın
-git clone https://github.com/kullanici-adi/mola-planlama.git
+git clone https://github.com/caleofin/MolaPlanlamaApp
 
 ### 2. Proje dizinine girin
 cd mola-planlama
